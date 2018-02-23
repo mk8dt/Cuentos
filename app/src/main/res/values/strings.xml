@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Cuentos</string>
+    <string name="Bienvenido">Bienvenido!! Intrduce tu nombre para ser el protagonista de los cuentos</string>
+    <string name="hint">Introduce tu Nombre: </string>
+    <string name="btn">EMPEZAR</string>
+    <string name="toast">Debes introducir un nombre para empezar.</string>
+
+</resources>
